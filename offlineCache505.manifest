@@ -1,5 +1,5 @@
 CACHE MANIFEST 
-# v1.0 : Sat 06/19/2021 
+# v1.0 : Mon 06/21/2021 
 
 AppToUsb.html
 ArabicGuy.html
@@ -9,6 +9,8 @@ DB_Restore_1.html
 DB_Restore_2.html
 Dope127.html
 Dumper.html
+exploit.css
+exploit_bin.js
 FanControl.html
 FTP.html
 GTA132.html
@@ -38,5 +40,6 @@ Trainer.html
 UpdatesDisable.html
 UpdatesEnable.html
 WebRTE.html
+webrte2.bin
 WildeModZ.html
 WildeModz127.html
