@@ -1,6 +1,7 @@
 CACHE MANIFEST 
-# v1.0 : Thu 07/15/2021 
+# random: 80859e6cd66a81929415d6e4b15cc97 
 
+CACHE: 
 AppToUsb.html
 ArabicGuy.html
 BINLOADER.html
@@ -50,3 +51,6 @@ WebRTE.html
 webrte2.bin
 WildeModZ.html
 WildeModz127.html
+
+NETWORK: 
+* 
