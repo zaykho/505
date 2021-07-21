@@ -4,6 +4,7 @@ CACHE:
 AppToUsb.html
 ArabicGuy.html
 BINLOADER.html
+Cache.manifest
 DB_Backup.html
 DB_Restore_1.html
 DB_Restore_2.html
@@ -31,12 +32,13 @@ LTS127.html
 NotAnother.html
 NotAnother127.html
 OrbisAFR.html
+oyster113.bin
+oyster119.bin
+oyster124.bin
+Oysters full.rar
 Oysters-1.13.html
 Oysters-1.19.html
 Oysters-1.24.html
-Oysters113.bin
-Oysters119.bin
-Oysters124.bin
 ps4trainer.html
 Psych0s.html
 SaveMounter.html
